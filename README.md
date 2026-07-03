@@ -218,16 +218,6 @@ Through this project, the following skills were developed:
 
 ---
 
-## 👨‍💻 Team Members
-
-* Chandrika A (Team Lead)
-* Sai Prasanth Jaddu
-* Perisetti R S N V Hemanth Kumar
-* Sasi Kiran Mekala
-* Yaswanth Sai
-
----
-
 ## 🏆 Conclusion
 
 Smart Lender demonstrates the practical application of Machine Learning in the banking and financial sector. By combining predictive analytics with a web-based interface, the system helps institutions make faster, more reliable, and data-driven loan approval decisions while reducing operational risk and improving customer service.
